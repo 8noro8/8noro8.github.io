@@ -1,0 +1,43 @@
+.block {
+    width: 1200px; 
+    background: #262626; 
+    opacity: 0.8;
+    padding: 5px; 
+    border: solid 1px black; 
+    position: relative; 
+    top: 20px; 
+    left: 70px; 
+     border-radius: 20px;
+   }
+#center { text-align: center;
+  color:wheat;
+}
+.fb {
+   margin-left: 387px;
+margin-top: 5px;
+        
+}
+#ok_shareWidget{
+  margin-left: 528px;
+margin-top: -29px;
+}
+#vk_like{
+  margin-left: 693px;
+margin-top: -30px;
+}
+#center2{
+    text-align: center;
+    color:wheat;
+    margin-left: 47px;
+}
+.fb2{
+    margin-left: 387;
+}
+#ok_shareWidget2{
+  margin-left: 528px;
+    margin-top: -29;
+}
+#vk_like2{
+  margin-left: 693px;
+margin-top: -30px;
+}

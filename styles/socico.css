@@ -1,0 +1,71 @@
+
+/*=====================*/
+.social-nav {
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+  margin-top:-40px;
+  text-align: center;
+  }
+  .social-nav li {
+    display: inline-block; }
+  .social-nav a {
+    display: inline-block;
+    float: left;
+    width: 48px;
+    height: 48px;
+    font-size: 20px;
+    color: #FFF;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    line-height: 48px;
+    background: #000;
+    position: relative;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s; }
+
+.model-7 li {
+  margin: 0 10px; }
+.model-7 a {
+  background: none;
+  -webkit-box-shadow: 0 0 4px 3px;
+  -moz-box-shadow: 0 0 4px 3px;
+  box-shadow: 0 0 4px 3px;
+  text-shadow: 0 0 1px #333333;
+  -webkit-transition: -webkit-transform 0.4s, background 0.4s;
+  -moz-transition: -moz-transform 0.4s, background 0.4s;
+  -o-transition: -o-transform 0.4s, background 0.4s;
+  transition: transform 0.4s, background 0.4s;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+  border-radius: 100%; }
+  .model-7 a .fa {
+    margin-top: 10px;
+    -webkit-transition: -webkit-transform 1s;
+    -moz-transition: -moz-transform 1s;
+    -o-transition: -o-transform 1s;
+    transition: transform 1s; }
+  .model-7 a:hover {
+    background: #fff; }
+    .model-7 a:hover .fa {
+      -webkit-transform: rotate(-10deg) scale(3);
+      -moz-transform: rotate(-10deg) scale(3);
+      -ms-transform: rotate(-10deg) scale(3);
+      -o-transform: rotate(-10deg) scale(3);
+      transform: rotate(-10deg) scale(3); }
+.model-7 .twitter {
+  color: #00aced;
+margin-left:485px}
+.model-7 .facebook {
+  color: #3b579d; }
+.model-7 .google-plus {
+  color: #dd4a3a; }
+.model-7 .linkedin {
+  color: #007bb6; }
+.model-7 .pinterest {
+  color: #cb2026; }
