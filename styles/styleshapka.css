@@ -1,0 +1,28 @@
+.mid {
+    background: none repeat scroll 0 0 #401616;
+    box-shadow: 0 3px 5px #555555;
+    position: relative;
+    text-align: center;
+    margin-top: -50px;
+}
+.mid:hover a {
+    color: transparent;
+    text-shadow: 0 0 3px #16403a;
+}
+.mid a {
+}
+.mid a:hover {
+    border-bottom: 5px solid crimson;
+    color: crimson;
+    text-shadow: none;
+}
+@media screen and (max-width: 620px) {
+    .mid a {
+        width: 49%;
+    }
+}
+@media screen and (max-width: 300px) {
+    .mid a {
+        width: 100%;
+    }
+}
